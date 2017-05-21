@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>João Pimentel</title>
+    <link>http://www.cin.ufpe.br/~jhcp/</link>
+    <description>Recent content on João Pimentel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 May 2017 14:48:15 -0300</lastBuildDate>
+    
+	<atom:link href="http://www.cin.ufpe.br/~jhcp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HowOldschoolGraphicsWorked</title>
+      <link>http://www.cin.ufpe.br/~jhcp/hidden/howoldschoolgraphicsworked/</link>
+      <pubDate>Sun, 21 May 2017 14:48:15 -0300</pubDate>
+      
+      <guid>http://www.cin.ufpe.br/~jhcp/hidden/howoldschoolgraphicsworked/</guid>
+      <description>adas</description>
+    </item>
+    
+    <item>
+      <title>WebsiteCreationResources</title>
+      <link>http://www.cin.ufpe.br/~jhcp/hidden/websitecreationresources/</link>
+      <pubDate>Sun, 21 May 2017 14:47:47 -0300</pubDate>
+      
+      <guid>http://www.cin.ufpe.br/~jhcp/hidden/websitecreationresources/</guid>
+      <description>dasdsadss</description>
+    </item>
+    
+    <item>
+      <title>30daysChallenge</title>
+      <link>http://www.cin.ufpe.br/~jhcp/hidden/30dayschallenge/</link>
+      <pubDate>Sun, 21 May 2017 14:47:30 -0300</pubDate>
+      
+      <guid>http://www.cin.ufpe.br/~jhcp/hidden/30dayschallenge/</guid>
+      <description>gegge</description>
+    </item>
+    
+    <item>
+      <title>BloomTaxonomy</title>
+      <link>http://www.cin.ufpe.br/~jhcp/hidden/bloomtaxonomy/</link>
+      <pubDate>Sun, 21 May 2017 14:47:07 -0300</pubDate>
+      
+      <guid>http://www.cin.ufpe.br/~jhcp/hidden/bloomtaxonomy/</guid>
+      <description>asdads</description>
+    </item>
+    
+    <item>
+      <title>Teaching teaching</title>
+      <link>http://www.cin.ufpe.br/~jhcp/hidden/teaching-teaching/</link>
+      <pubDate>Sun, 21 May 2017 14:46:09 -0300</pubDate>
+      
+      <guid>http://www.cin.ufpe.br/~jhcp/hidden/teaching-teaching/</guid>
+      <description>teste</description>
+    </item>
+    
+    <item>
+      <title>João Pimentel</title>
+      <link>http://www.cin.ufpe.br/~jhcp/post/index/</link>
+      <pubDate>Sun, 21 May 2017 13:56:17 -0300</pubDate>
+      
+      <guid>http://www.cin.ufpe.br/~jhcp/post/index/</guid>
+      <description>Hi! I’m a professor at UFRPE. Previously I have been a post-doc researcher at UPE - Brazil. I did my Ph.D. in Computer Sciences at UFPE - Brazil, under supervision from Jaelson Castro. During my Ph.D there were two research periods abroad: 10 months at UPC - Spain, supervised by Xavier Franch; 1 year at UniTn - Italy, under John Mylopoulos.
+Besides researching on requirements engineering, autonomic systems and everything software engineering, I’ve worked developing Digital TV software at CESAR.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://www.cin.ufpe.br/~jhcp/single/publications/</link>
+      <pubDate>Sun, 21 May 2017 13:56:17 -0300</pubDate>
+      
+      <guid>http://www.cin.ufpe.br/~jhcp/single/publications/</guid>
+      <description>[CLEIej] Paulo Lima, Jéssyka Vilela, Enyo Gonçalves, João Pimentel, Ana Holanda, Jaelson Castro, Fernanda Alencar, Maria Lencastre. An extended systematic mapping study about the scalability of i* Models. In: CLEI electronic journal, Volume 19:2016, Number 3, December 2016.
+[FEES 2016] Daniel Negreiros Araujo, Maria Lencastre, João Pimentel, Mariana Duque, Fernanda Alencar. Jogos Educativos no Ensino da Engenharia de Requisitos. In: IX Fórum de Educação em Engenharia de Software (FEES), 2016, pp.</description>
+    </item>
+    
+  </channel>
+</rss>
