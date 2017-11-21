@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on João Pimentel</title>
+    <link>http://www.cin.ufpe.br/~jhcp/home/</link>
+    <description>Recent content in Homes on João Pimentel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 May 2017 13:56:17 -0300</lastBuildDate>
+    
+	<atom:link href="http://www.cin.ufpe.br/~jhcp/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>João Pimentel</title>
+      <link>http://www.cin.ufpe.br/~jhcp/home/</link>
+      <pubDate>Sun, 21 May 2017 13:56:17 -0300</pubDate>
+      
+      <guid>http://www.cin.ufpe.br/~jhcp/home/</guid>
+      <description>Hi! I’m a professor at UFRPE. Previously I have been a post-doc researcher at UPE - Brazil. I did my Ph.D. in Computer Sciences at UFPE - Brazil, under supervision from Jaelson Castro. During my Ph.D there were two research periods abroad: 10 months at UPC - Spain, supervised by Xavier Franch; 1 year at UniTn - Italy, under John Mylopoulos.
+Besides researching on requirements engineering, autonomic systems and everything software engineering, I’ve worked developing Digital TV software at CESAR.</description>
+    </item>
+    
+  </channel>
+</rss>
