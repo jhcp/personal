@@ -5,6 +5,19 @@ title = "Publications"
 
 +++
 
+## 2018
+
+<p>[SAC 2018]
+João Pimentel, Emanuel Santos, Tarcisio Pereira, Daniel Ferreira, Jaelson Castro. <strong><a href="/">A Gamified Requirements Inspection Process for Goal Models</a></strong>. In: 33rd ACM/SIGAPP Symposium on Applied Computing, April 2018, pp. XX-XX (in press).</p>
+
+<p>[SAC 2018]
+André Miranda, João Pimentel. <strong><a href="/">On the Use of Package Managers by the C++ Open-Source Community</a></strong>. In: 33rd ACM/SIGAPP Symposium on Applied Computing, April 2018, pp. XX-XX (in press).</p>
+
+## 2017
+<p>[REPA]
+Luiz Felipe da Costa, João Pimentel, Maria Lencastre. <strong><a href="xxx">Levantamento do Ensino de Engenharia de Requisitos em cursos à distância no Brasil</a></strong>. In: Revista de Engenharia e Pesquisa Aplicada, Volume 2:2017, Número 2, Julho 2017.</p>
+
+
 ## 2016
 
 <p>[CLEIej]
