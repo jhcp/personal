@@ -2,25 +2,36 @@
     <div class="header">
         <hgroup>
             <h1 class="brand-title"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
-            <h2 class="brand-tagline">{{ with .Site.Params.description }} {{.}} {{end}}</h2>
+            
         </hgroup>
 
         <nav class="nav">
             <ul class="nav-list">
-                {{ with .Site.Params.twitterName }}
                 <li class="nav-item">
-                    <a class="pure-button" href="https://twitter.com/{{ . }}"><i class="fa fa-twitter"></i> Twitter</a>
-                </li>
-                {{ end }}
-                {{ with .Site.Params.githubName }}
-                <li class="nav-item">
-                    <a class="pure-button" href="https://github.com/{{ . }} "><i class="fa fa-github-alt"></i> github</a>
-                </li>
-                {{ end }}
-                <li class="nav-item">
-                    <a class="pure-button" href="{{ .Site.BaseURL }}/index.xml"><i class="fa fa-rss"></i> rss</a>
+                    <a class="pure-button" href="single/publications/"><i class="fa fa-mortar-board"></i> Publications</a>
                 </li>
             </ul>
         </nav>
+
+        <div>
+          <div class="sidebarmenu">
+            <br />
+            {{ with .Site.Params.twitterName }}
+                <a href="https://twitter.com/{{ . }}"> Twitter</a>
+            {{ end }}
+            <br />
+            {{ with .Site.Params.dblpLink }}
+                <a href="{{ . }}"> DBLP</a>
+            {{ end }}
+            {{ with .Site.Params.googleScholarLink }}
+            <br />
+                <a href="{{ . }}"> Google Scholar</a>
+            {{ end }}
+            <br />
+            {{ with .Site.Params.lattesLink }}
+                <a href="{{ . }}"> Lattes</a>
+            {{ end }}
+          </div>
+        </div>
     </div>
 </div>

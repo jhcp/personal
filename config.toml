@@ -10,7 +10,6 @@ theme = "purehugo"
   dblpLink = "http://dblp.uni-trier.de/pers/hd/p/Pimentel_0001:Jo=atilde=o"
   googleScholarLink = "https://scholar.google.com.br/citations?user=2Ze85gcAAAAJ&hl=pt-BR&oi=ao"
   lattesLink = "http://lattes.cnpq.br/8257035194560179"
-  githubName = ""
 
   rss = false
   hideShareOptions = true
