@@ -12,3 +12,7 @@ title = "Website creation resources"
 - [Font Awesome Favicon Generator](https://paulferrett.com/fontawesome-favicon/)
 - [Zen BG](https://galactic.ink/bg/)
 - [Background Image Generator](http://bg.siteorigin.com/)
+
+### Analysis tools
+- [Check GZIP compression](https://checkgzipcompression.com/)
+- [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
