@@ -107,8 +107,12 @@ Profs. Roberto Kenji e João Pimentel
 
  - Projeto
    - Descrição: Este projeto será em cima do projeto da Aula 1 (semáforo combinado
+<<<<<<< HEAD
      de veículos e de pedestres). Você pode usar como ponto de partida o
      [Semáforo Refatorado](https://www.tinkercad.com/things/lsRlh2fF7nc).
+=======
+     de veículos e de pedestres).
+>>>>>>> master
      Quando o semáforo dos veículos estiver aberto, ele poderá receber comandos
      da central de trânsito, via comunicação serial.
      A central de trânsito poderá enviar para o semáforo um comando para mudar
