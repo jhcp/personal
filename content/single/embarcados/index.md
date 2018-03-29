@@ -21,10 +21,12 @@ Profs. Roberto Kenji e João Pimentel
 
  - [Cheatsheet](cheatsheet.jpeg)
 
+<br />
 # Turma Março 2018
 
-## Aula 1
 
+## Aula 1
+<hr />
  - [Slides João](aula1joão.pdf)
 
  - [Slides Roberto - parte 1](aula1kenji-parte1.pdf)
@@ -53,6 +55,7 @@ Profs. Roberto Kenji e João Pimentel
  - [Texto sobre números binários](https://www.tecmundo.com.br/infografico/9424-como-um-computador-faz-calculos-pelo-sistema-binario-.htm)
 
 ## Aula 2
+<hr />
 
 - [Slides Roberto - parte 1](aula2kenji-parte1.pdf)
 
@@ -74,6 +77,7 @@ Profs. Roberto Kenji e João Pimentel
   - Resolução: https://www.tinkercad.com/things/9Hq3sZqKBRk
 
 ## Aula 3
+<hr />
 
 - [Slides Roberto - parte 1](aula3kenji-parte1.pdf)
 
@@ -95,15 +99,30 @@ Profs. Roberto Kenji e João Pimentel
 
 
 ## Aula 4
+<hr />
 
- - [Slides Roberto](#)
+ - [Slides Roberto](aula4kenji.pdf)
+
+ - [Exemplo](https://www.tinkercad.com/things/d6ctTW0g7ds)
+
+ - Projeto
+   - Descrição: Este projeto será em cima do projeto da Aula 1 (semáforo combinado
+     de veículos e de pedestres). Você pode usar como ponto de partida o
+     [Semáforo Refatorado](https://www.tinkercad.com/things/lsRlh2fF7nc).
+     Quando o semáforo dos veículos estiver aberto, ele poderá receber comandos
+     da central de trânsito, via comunicação serial.
+     A central de trânsito poderá enviar para o semáforo um comando para mudar
+     o tempo que o sinal de pedestres deve permanecer aberto.
+     Além disso, a central de trânsito poderá solicitar ao semáforo a informação
+     de quantas vezes o botão de pedestres foi pressionado.
 
 ## Aula 5
+<hr />
 
  - [Slides João](#)
 
 ## Extra
-
+<hr />
 ### Arredondamento
 
 O C conta com funções de arredondamento de números, que também estão disponíveis
@@ -121,3 +140,7 @@ Serial.println("round 2.8: "+String(round(2.8)));
 Serial.println("floor 2.8: "+String(floor(2.8)));
 Serial.println("ceil 2.8: "+String(ceil(2.8)));
 ```
+
+### Compartilhando projetos no Tinkercad
+
+ - [Passo a passo para compartilhar projetos no Tinkercad](compartilharTinkercad.pdf)
