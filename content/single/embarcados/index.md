@@ -24,6 +24,7 @@ Profs. Roberto Kenji e João Pimentel
 <br />
 # Turma Março 2018
 
+<img src="selfie.jpg" width="600px"/>
 
 ## Aula 1
 <hr />
@@ -61,7 +62,7 @@ Profs. Roberto Kenji e João Pimentel
 
 - [Slides Roberto - parte 2](aula2kenji-parte2.pdf)
 
-- [Exemplo Semáforo Refatorado](https://www.tinkercad.com/things/lsRlh2fF7nc)
+- [Exemplo Semáforo Refatorado](https://www.tinkercad.com/things/d6ctTW0g7ds)
 
 - [Exemplo Pisca-Pisca sem delay()](https://www.tinkercad.com/things/9Fmb7YLFRuO)
 
@@ -103,18 +104,37 @@ Profs. Roberto Kenji e João Pimentel
 
  - [Slides Roberto](aula4kenji.pdf)
 
- - [Exemplo](https://www.tinkercad.com/things/d6ctTW0g7ds)
+ - [Exemplo com comunicação serial](https://www.tinkercad.com/things/d6ctTW0g7ds)
+
+ - [Vídeos sobre arrays](https://www.youtube.com/watch?v=BDFHSNdHoNc)
 
  - Projeto
-   - Descrição: Este projeto será em cima do projeto da Aula 1 (semáforo combinado
+
+   Descrição:
+
+     Este projeto será em cima do projeto da Aula 1 (semáforo combinado
      de veículos e de pedestres). Você pode usar como ponto de partida o
-     [Semáforo Refatorado](https://www.tinkercad.com/things/lsRlh2fF7nc).
+     Exemplo Semáforo Refatorado (Aula 2).
+
      Quando o semáforo dos veículos estiver aberto, ele poderá receber comandos
      da central de trânsito, via comunicação serial.
      A central de trânsito poderá enviar para o semáforo um comando para mudar
-     o tempo que o sinal de pedestres deve permanecer aberto.
+     o tempo que o sinal de pedestres deve permanecer aberto. O sistema suportará
+     três velocidades: lento, médio, e rápido.
      Além disso, a central de trânsito poderá solicitar ao semáforo a informação
      de quantas vezes o botão de pedestres foi pressionado.
+
+     O seguinte protocolo deve ser adotado:
+      - o primeiro byte da mensagem representa o comando que o sistema deve atender
+        - 'm' representa o pedido para mudar a duração do sinal verde para os pedestres
+        - 'p' representa o pedido para receber de volta o número de vezes que
+        o botão de pedestres foi acionado.
+      - caso o comando seja 'm', o segundo byte da mensagem representará a duração desejada:
+        - 'l' representa uma duração longa (8 segundos)
+        - 'm' representa uma duração média (3 segundos)
+        - 'r' representa uma duração rápida (meio segundo)
+      - o último byte da mensagem será indicado pelo caractere 't'
+
 
 ## Aula 5
 <hr />
@@ -144,3 +164,12 @@ Serial.println("ceil 2.8: "+String(ceil(2.8)));
 ### Compartilhando projetos no Tinkercad
 
  - [Passo a passo para compartilhar projetos no Tinkercad](compartilharTinkercad.pdf)
+
+### Sugestão de projeto pro fim de semana
+
+ Semaforo com contagem regressiva
+
+ ![semaforo regressivo](semaforo.gif)
+
+ Mesma lógica, mas com LED RGB
+ ![semaforo regressivo](semaforoRGB.gif)
