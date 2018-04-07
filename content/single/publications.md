@@ -2,7 +2,7 @@
 date = "2017-05-21T13:56:17-03:00"
 draft = false
 title = "Publications"
-
+scripts = ["highlight.js"]
 +++
 
 ## 2018
@@ -19,13 +19,13 @@ In: 33rd ACM/SIGAPP Symposium on Applied Computing, April 2018, pp. XX-XX (in pr
 
 ## 2017
 
-[REPA]
+[REPA Journal]
 Hugo Felipe Dias da Costa, João Pimentel.
 **[O Papel da Comunicação na Elicitação de Requisitos – Entrevistas e Brainstorming](http://revistas.poli.br/index.php/repa/article/viewFile/845/421)**.
 In: Revista de Engenharia e Pesquisa Aplicada, Volume 2:2017, Number 4, pp. 97-109, December 2017.
 DOI: [10.25286/repa.v2i4.845](http://dx.doi.org/10.25286/repa.v2i4.845)
 
-[REPA]
+[REPA Journal]
 Luiz Felipe da Costa, João Pimentel, Maria Lencastre.
 **[Levantamento do Ensino de Engenharia de Requisitos em cursos à distância no Brasil](http://revistas.poli.br/index.php/repa/article/viewFile/561/184)**.
 In: Revista de Engenharia e Pesquisa Aplicada, Volume 2:2017, Number 2, pp. 109-121, July 2017.
@@ -34,7 +34,7 @@ DOI: [10.25286/repa.v2i2.561](http://dx.doi.org/10.25286/repa.v2i2.561)
 
 ## 2016
 
-[CLEIej]
+[CLEIej Journal]
 Paulo Lima, Jéssyka Vilela, Enyo Gonçalves, João Pimentel, Ana Holanda, Jaelson Castro, Fernanda Alencar, Maria Lencastre. **[An extended systematic mapping study about the scalability of i* Models](http://www.scielo.edu.uy/scielo.php?pid=S0717-50002016000300007&script=sci_arttext&tlng=en)**. In: CLEI electronic journal, Volume 19:2016, Number 3, December 2016.
 
 [FEES 2016]
