@@ -6,12 +6,23 @@ title = "Website creation resources"
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Hugo](https://gohugo.io/overview/introduction/)
 
+### Icons
+- [Font Awesome Favicon Generator](https://paulferrett.com/fontawesome-favicon/)
+- [Favicon.io](https://favicon.io)
+
 ### Images
 
 - [Free Logo Maker](https://logomakr.com/)
-- [Font Awesome Favicon Generator](https://paulferrett.com/fontawesome-favicon/)
+- [Animador de SVG](https://www.svgator.com/)
 - [Zen BG](https://galactic.ink/bg/)
 - [Background Image Generator](http://bg.siteorigin.com/)
+
+
+### Videos
+- [Criar vídeos com animações](http://www.animaker.co)
+
+### Color
+- [Coolors](https://coolors.co)
 
 ### Analysis tools
 - [Check GZIP compression](https://checkgzipcompression.com/)
