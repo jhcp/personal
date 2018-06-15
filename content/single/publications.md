@@ -7,6 +7,22 @@ scripts = ["highlight.js"]
 
 ## 2018
 
+[REPA Journal]
+Max Guenes Santos, João Pimentel.
+**[Compartilhamento de Modelos iStar 2.0 em Ferramentas de Modelagem Online - o Caso da piStar](http://revistas.poli.br/index.php/repa/article/view/885/429)**.
+In: Revista de Engenharia e Pesquisa Aplicada, Volume 3:2018, Number 2, pp. 44-55, April 2018.
+DOI: [10.25286/repa.v3i2.885](http://dx.doi.org/10.25286/repa.v3i2.885)
+
+[REPA Journal]
+Arthur Inácio do Nascimento, João Pimentel.
+**[Um Sistema de Atendimento Remoto Usando a Língua Brasileira de Sinais](http://revistas.poli.br/index.php/repa/article/view/910/434)**.
+In: Revista de Engenharia e Pesquisa Aplicada, Volume 3:2018, Number 2, pp. 108-119, April 2018.
+DOI: [10.25286/repa.v3i2.910](http://dx.doi.org/10.25286/repa.v3i2.910)
+
+[RE 2018]
+João Pimentel, Jaelson Castro. **<a href="#">
+piStar Tool – A Pluggable Online Tool for Goal Modeling</a>**. In: 26th IEEE International Requirements Engineering Conference (RE), Canada, 2018, pp. XXX-XXX. DOI: [xxx](#) Extra: <a href="#">video</a>
+
 [SAC 2018]
 João Pimentel, Emanuel Santos, Tarcisio Pereira, Daniel Ferreira, Jaelson Castro.
 **[A Gamified Requirements Inspection Process for Goal Models](http://www.cin.ufpe.br/~jhcp/publica/sac2018game-pre.pdf)**.
