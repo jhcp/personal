@@ -16,10 +16,12 @@ title = "Website creation resources"
 - [Animador de SVG](https://www.svgator.com/)
 - [Zen BG](https://galactic.ink/bg/)
 - [Background Image Generator](http://bg.siteorigin.com/)
+- [Unsplash - free photos](https://unsplash.com/)
 
 
 ### Videos
 - [Criar vídeos com animações](http://www.animaker.co)
+- [Captura de tela](https://github.com/MathewSachin/Captura)
 
 ### Color
 - [Coolors](https://coolors.co)
