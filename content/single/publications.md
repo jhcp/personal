@@ -26,12 +26,12 @@ piStar Tool – A Pluggable Online Tool for Goal Modeling</a>**. In: 26th IEEE I
 [SAC 2018]
 João Pimentel, Emanuel Santos, Tarcisio Pereira, Daniel Ferreira, Jaelson Castro.
 **[A Gamified Requirements Inspection Process for Goal Models](http://www.cin.ufpe.br/~jhcp/publica/sac2018game-pre.pdf)**.
-In: 33rd ACM/SIGAPP Symposium on Applied Computing, April 2018, pp. XX-XX (in press).
+In: 33rd ACM/SIGAPP Symposium on Applied Computing, April 2018, pp. 1300-1307.
 
 [SAC 2018]
 André Miranda, João Pimentel.
 **[On the Use of Package Managers by the C++ Open-Source Community](http://www.cin.ufpe.br/~jhcp/publica/sac2018cpp-pre.pdf)**.
-In: 33rd ACM/SIGAPP Symposium on Applied Computing, April 2018, pp. XX-XX (in press).
+In: 33rd ACM/SIGAPP Symposium on Applied Computing, April 2018, pp. 1483-1491.
 
 ## 2017
 
