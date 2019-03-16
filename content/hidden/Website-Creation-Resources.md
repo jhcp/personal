@@ -29,3 +29,9 @@ title = "Website creation resources"
 ### Analysis tools
 - [Check GZIP compression](https://checkgzipcompression.com/)
 - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+
+### JSON Class Diagrams
+- [JS Cleaner](https://html-cleaner.com/js/) - this can be used to remove comments from
+ the file before using the tool below
+- [JSON Discoverer](http://som-research.uoc.edu/tools/jsonDiscoverer)
+- [JSON to Tree](https://vanya.jp.net/vtree/index.html)
