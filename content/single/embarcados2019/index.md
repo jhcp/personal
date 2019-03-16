@@ -16,11 +16,13 @@ Profs. Roberto Kenji e João Pimentel
  - Livro: C Completo e Total - Herbert Schildt
 
  - Livro: [Introdução à eletrônica para artistas](http://www.argonavis.com.br/download/eletronica-para-artistas.html) - Helder da Rocha
- - Apostila: Arduino Programming Notebook - Brian W. Evans. [PORTUGUÊS](notebook_pt_br.pdf) ou [INGLÊS](notebook_en.pdf).
+ - Apostila: Arduino Programming Notebook - Brian W. Evans. 
+ [PORTUGUÊS](http://www.cin.ufpe.br/~jhcp/single/embarcados/notebook_pt_br.pdf) ou 
+ [INGLÊS](http://www.cin.ufpe.br/~jhcp/single/embarcados/notebook_en.pdf).
 
  - [Documentação do Arduino em português](https://www.arduino.cc/reference/pt/)
 
- - [Cheatsheet](cheatsheet.jpeg)
+ - [Cheatsheet](http://www.cin.ufpe.br/~jhcp/single/embarcados/cheatsheet.jpeg)
 
 ## Cronograma
 
@@ -66,3 +68,72 @@ Após solicitar inscrição, verifique seu email diariamente para responder aos 
 - Histórico escolar completo anexo (pode ser o do SIGA)
 
 Divulgação dos resultados da inscrição: 09 de fevereiro.
+
+## Resultados da inscrição
+
+### Inscrições aprovadas:
+-  Ana Paula Martins da Silva
+-  Adrielson de Araújo Dias
+-  Alexandre Gomes de Moura
+-  Bruno Felipe Melo de Albuquerque
+-  Carlos Correia Pinto
+-  Clariele de Almeida Pereira
+-  Claudio Paz da Silva Filho
+-  Deyvison Muniz Conrado
+-  Edivaldo Ferreira dos Santos Júnior
+-  Edivaldo Sebastião da Silva Júnior
+-  Filipe Alan Silva de Oliveira
+-  Gabriel Victor da Silva Santos
+-  João Pedro de Sá Florentino
+-  Jorge Barros Medeiros
+-  José Otávio Cavalcanti Maciel
+-  Kelvin Maia Mariano de Lima
+-  Larissa Vilela Sobral
+-  Lucas Victor Ramos Bunzen
+-  Marcelo Wilker da Silva Santos
+-  Mário Henrique de Oliveira Lira Junior
+-  Marx Daylon da Cunha Barbosa.
+-  Paula de Társia Borba de França
+-  Pedro Alves do Nascimento Neto
+-  Pedro Henrique Valentim Santos
+-  Pedro Henrique Vasconcelos Pereira
+-  Robério Rodrigues de Almeida Neto
+-  Robson Luiz da Silva Freire
+-  Romário Jonas de oliveira Veloso
+-  Talita Moraes Ferreira
+-  Tiago Florêncio dos Santos
+-  Tomás Miranda Marcena Apolinário
+-  Vanessa Maria Candida dos Santos
+-  Victor Ádony Alves Santos
+-  Wendell Figueiredo dos Santos
+
+# Material das Aulas
+
+## Aula 1
+<hr />
+ - [Slides João](http://www.cin.ufpe.br/~jhcp/single/embarcados/aula1joao.pdf)
+
+ - [Slides Roberto - parte 1](http://www.cin.ufpe.br/~jhcp/single/embarcados/aula1kenji-parte1.pdf)
+
+ - [Slides Roberto - parte 2](http://www.cin.ufpe.br/~jhcp/single/embarcados/aula1kenji-parte2.pdf)
+
+ - [Exemplo de Push Button](http://www.cin.ufpe.br/~jhcp/single/embarcados/exemplo_pushbutton.png)
+
+ - Projeto
+   - Descrição: Crie um semáforo combinado de veículos e de pedestre.
+   Por padrão, o semáforo deverá ficar aberto para os veículos e fechado para os pedestres.
+   O projeto deve conter um botão (push button) para pedestres.
+   Quando o botão é pressionado, o semáforo dos veículos deverá ficar amarelo (imediatamente).
+   Após um certo tempo, o semáforo dos veículos passará de amarelo para vermelho.
+   Concomitantemente, o semáforo dos pedestres ficará verde.
+   Após algum tempo, o semáforo dos pedestres ficará piscando em vermelho, indicando
+   que irá fechar em breve, enquanto o semáforo dos veículos permanece vermelho.
+   Após algum tempo piscando, o semáforo dos pedestres ficará vermelho em definitivo,
+   ao mesmo tempo em que o semáforo dos veículos voltará para seu estado inicial (verde).
+   - Resolução:
+
+ - [Questionário](https://goo.gl/forms/LhvOp8lUqtSZ6ctC2)
+
+ - [Vídeos sobre números binários](https://pt.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/number-systems-introduction)
+
+ - [Texto sobre números binários](https://www.tecmundo.com.br/infografico/9424-como-um-computador-faz-calculos-pelo-sistema-binario-.htm)
