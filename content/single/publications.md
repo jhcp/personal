@@ -5,6 +5,14 @@ title = "Publications"
 scripts = ["highlight.js"]
 +++
 
+## 2019
+
+[WER 2019]
+Moniky Ribeiro, Jaelson Castro, Jéssyka Vilela, João Pimentel. **<a href="#">
+iStar4Safety: Uma Extensão de iStar para Modelagem de Requisitos de Segurança em Sistemas Críticos
+</a>**. In: Workshop on Requirements Engineering (WER), 2019, Recife, Brazil.
+
+
 ## 2018
 
 [REPA Journal]
@@ -95,7 +103,7 @@ Jennifer Horkoff, Tong Li, Feng-Lin Li, Mattia Salnitri, Evellin Cardoso, Paolo 
 João Pimentel, Konstantinos Angelopoulos, Vítor E. Silva Souza, John Mylopoulos, Jaelson Castro. **[From Requirements to Architectures for Better Adaptive Software Systems](http://ceur-ws.org/Vol-978/paper_16.pdf)**. In: Proceedings of the 6th International i* Workshop 2013, Valencia, Spain, June 17-18, 2013, pp. 91-96. CEUR proceedings Vol-978, urn:nbn:de:0074-978-8 ISSN: 1613-0073. Co-located with CAISE 2013.
 
 [SEAMS 2013]
-Konstantinos Angelopoulos, Vitor E. Silva Souza, João Pimentel. **[Requirements and Architectural Approaches to Adaptive Software Systems: A Comparative Study](http://www.cin.ufpe.br/~jhcp/publica/seams2013.pdf)**. In: Proceedings of the 8th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2013, pp. 23-32. ISBN: 978-1-4673-4401-2 Extra: <a href="http://dl.acm.org/citation.cfm?id=2487343">publisher's site</a>.
+Konstantinos Angelopoulos, Vitor E. Silva Souza, João Pimentel. **[Requirements and Architectural Approaches to Adaptive Software Systems: A Comparative Study](http://www.cin.ufpe.br/~jhcp/publica/seams2013.pdf)**. In: Proceedings of the 8th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), 2013, pp. 23-32. ISBN: 978-1-4673-4401-2. DOI: [10.1109/SEAMS.2013.6595489](https://doi.org/10.1109/SEAMS.2013.6595489)
 
 [WER/CIBSE 2013]
 Karolyne Oliveira, João Pimentel, Emanuel Santos, Diego Dermeval, Gabriela Guedes, Cleice Souza, Monique Soares, Jaelson Castro, Fernanda Alencar, Carla Silva. **[25 years of Requirements Engineering in Brazil: a systematic mapping](http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER13/Oliveira.pdf)**. In: Proceedings of the 16th Requirements Engineering Workshop (WER), Montevideo, Uruguay, April 8-10, 2013, pp. 118-134.
